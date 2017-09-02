@@ -3,4 +3,4 @@ keyhole.fun
 
 Visit http://keyhole.fun :) 
 
-a #boobhack entry 
+a [#boobhack](http://boobhack.com) entry
